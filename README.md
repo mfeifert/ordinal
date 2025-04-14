@@ -12,6 +12,9 @@ echo 10 | ordinal
 echo 22 | ordinal
 22nd
 
+echo 33 | ordinal
+33rd
+
 echo 113 | ordinal
 113th
 ```
